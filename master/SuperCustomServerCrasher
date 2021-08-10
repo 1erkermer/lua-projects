@@ -1,0 +1,1353 @@
+-- this script was made by jax u fucks
+print("lol jax;#001 just proved ur an idiot")
+
+local ScreenGui = Instance.new("ScreenGui")
+local white = Instance.new("Frame")
+local ImageLabel = Instance.new("ImageLabel")
+local black = Instance.new("Frame")
+local ImageLabel_2 = Instance.new("ImageLabel")
+local popupblack1 = Instance.new("Frame")
+local ImageLabel_3 = Instance.new("ImageLabel")
+local popupwhite1 = Instance.new("Frame")
+local ImageLabel_4 = Instance.new("ImageLabel")
+local popupwhite2 = Instance.new("Frame")
+local ImageLabel_5 = Instance.new("ImageLabel")
+local popupblack2 = Instance.new("Frame")
+local ImageLabel_6 = Instance.new("ImageLabel")
+local popupblack3 = Instance.new("Frame")
+local ImageLabel_7 = Instance.new("ImageLabel")
+local popupwhite3 = Instance.new("Frame")
+local ImageLabel_8 = Instance.new("ImageLabel")
+
+--Properties:
+
+ScreenGui.Parent = game.CoreGui
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+white.Name = "white"
+white.Parent = ScreenGui
+white.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+white.Size = UDim2.new(1, 0, 1, 0)
+
+ImageLabel.Parent = white
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.Position = UDim2.new(0, 0, -0.250306755, 0)
+ImageLabel.Size = UDim2.new(1, 0, 1.5, 0)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=7225682611"
+
+black.Name = "black"
+black.Parent = ScreenGui
+black.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+black.Size = UDim2.new(1, 0, 1, 0)
+black.Visible = false
+
+ImageLabel_2.Parent = black
+ImageLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_2.Position = UDim2.new(0, 0, -0.250306755, 0)
+ImageLabel_2.Size = UDim2.new(1, 0, 1.5, 0)
+ImageLabel_2.Image = "http://www.roblox.com/asset/?id=7225682356"
+
+popupblack1.Name = "popupblack1"
+popupblack1.Parent = ScreenGui
+popupblack1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+popupblack1.Position = UDim2.new(0.00469851214, 0, 0, 0)
+popupblack1.Size = UDim2.new(0.300000012, 0, 0.300000012, 0)
+popupblack1.Visible = false
+popupblack1.Draggable = true
+
+ImageLabel_3.Parent = popupblack1
+ImageLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_3.Size = UDim2.new(1, 0, 1, 0)
+ImageLabel_3.Image = "http://www.roblox.com/asset/?id=7231456159"
+
+popupwhite1.Name = "popupwhite1"
+popupwhite1.Parent = ScreenGui
+popupwhite1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+popupwhite1.Position = UDim2.new(0.671104133, 0, 0.625766873, 0)
+popupwhite1.Size = UDim2.new(0.300000012, 0, 0.300000012, 0)
+popupwhite1.Visible = false
+popupwhite1.Draggable = true
+
+ImageLabel_4.Parent = popupwhite1
+ImageLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_4.Size = UDim2.new(1, 0, 1, 0)
+ImageLabel_4.Image = "http://www.roblox.com/asset/?id=7231456444"
+
+popupwhite2.Name = "popupwhite2"
+popupwhite2.Parent = ScreenGui
+popupwhite2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+popupwhite2.Position = UDim2.new(0.563821435, 0, 0.034355849, 0)
+popupwhite2.Size = UDim2.new(0.300000012, 0, 0.300000012, 0)
+popupwhite2.Visible = false
+popupwhite2.Draggable = true
+
+ImageLabel_5.Parent = popupwhite2
+ImageLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_5.Size = UDim2.new(1, 0, 1, 0)
+ImageLabel_5.Image = "http://www.roblox.com/asset/?id=7231456444"
+
+popupblack2.Name = "popupblack2"
+popupblack2.Parent = ScreenGui
+popupblack2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+popupblack2.Position = UDim2.new(0.377447158, 0, 0.363190174, 0)
+popupblack2.Size = UDim2.new(0.300000012, 0, 0.300000012, 0)
+popupblack2.Visible = false
+popupblack2.Draggable = true
+
+ImageLabel_6.Parent = popupblack2
+ImageLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_6.Size = UDim2.new(1, 0, 1, 0)
+ImageLabel_6.Image = "http://www.roblox.com/asset/?id=7231456159"
+
+popupblack3.Name = "popupblack3"
+popupblack3.Parent = ScreenGui
+popupblack3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+popupblack3.Position = UDim2.new(0.0250587463, 0, 0.651533723, 0)
+popupblack3.Size = UDim2.new(0.300000012, 0, 0.300000012, 0)
+popupblack3.Visible = false
+popupblack3.Draggable = true
+
+ImageLabel_7.Parent = popupblack3
+ImageLabel_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_7.Size = UDim2.new(1, 0, 1, 0)
+ImageLabel_7.Image = "http://www.roblox.com/asset/?id=7231456159"
+
+popupwhite3.Name = "popupwhite3"
+popupwhite3.Parent = ScreenGui
+popupwhite3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+popupwhite3.Position = UDim2.new(0.296789318, 0, 0.650306821, 0)
+popupwhite3.Size = UDim2.new(0.300000012, 0, 0.300000012, 0)
+popupwhite3.Visible = false
+popupwhite3.Draggable = true
+
+ImageLabel_8.Parent = popupwhite3
+ImageLabel_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_8.Size = UDim2.new(1, 0, 1, 0)
+ImageLabel_8.Image = "http://www.roblox.com/asset/?id=7231456444"
+
+-- Scripts:
+
+local function CPQJ_fake_script() -- ScreenGui.popup 
+	local script = Instance.new('Script', ScreenGui)
+
+	local black = script.Parent.black
+	local white = script.Parent.white
+	
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+	black.Visible = true
+	white.Visible = false
+	
+	wait(2)
+	
+	black.Visible = false
+	white.Visible = true
+	
+	wait(2)
+	
+end
+coroutine.wrap(CPQJ_fake_script)()
+local function NWSJJ_fake_script() -- ScreenGui.back 
+	local script = Instance.new('Script', ScreenGui)
+
+	local b1 = script.Parent.popupblack1
+	local b2 = script.Parent.popupblack2
+	local b3 = script.Parent.popupblack3
+	local w1 = script.Parent.popupwhite1
+	local w2 = script.Parent.popupwhite2
+	local w3 = script.Parent.popupwhite3
+	
+
+	
+	b1.Visible = true
+	
+	wait(2)
+	
+	w1.Visible = true
+	
+	wait(2)
+	
+	b2.Visible = true
+	
+	wait(2)
+	
+	w2.Visible = true
+	
+	wait(2)
+	
+	b3.Visible = true
+	
+	wait(2)
+	
+	w3.Visible = true
+	
+	wait(2)
+	
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+	
+	wait(2)
+	
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = true
+	b2.Visible = true
+	b3.Visible = true
+	
+	wait(2)
+	
+	w1.Visible = true
+	w2.Visible = true
+	w3.Visible = true
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+	
+	wait(2)
+	
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+	
+	wait(2)
+	
+	w1.Visible = true
+	b2.Visible = true
+	w3.Visible = true
+	
+	wait(2)
+	
+	w1.Visible = false
+	b2.Visible = false
+	w3.Visible = false
+	w2.Visible = true
+	b1.Visible = true
+	w3.Visible = true
+	
+	wait(2)
+	
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+	
+	wait(2)
+	b1.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+
+	wait(2)
+
+	b2.Visible = true
+
+	wait(2)
+
+	w2.Visible = true
+
+	wait(2)
+
+	b3.Visible = true
+
+	wait(2)
+
+	w3.Visible = true
+
+	wait(2)
+
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = true
+	b2.Visible = true
+	b3.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+	w2.Visible = true
+	w3.Visible = true
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = true
+	b2.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	b2.Visible = false
+	w3.Visible = false
+	w2.Visible = true
+	b1.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+	b1.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+
+	wait(2)
+
+	b2.Visible = true
+
+	wait(2)
+
+	w2.Visible = true
+
+	wait(2)
+
+	b3.Visible = true
+
+	wait(2)
+
+	w3.Visible = true
+
+	wait(2)
+
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = true
+	b2.Visible = true
+	b3.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+	w2.Visible = true
+	w3.Visible = true
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = true
+	b2.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	b2.Visible = false
+	w3.Visible = false
+	w2.Visible = true
+	b1.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+	b1.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+
+	wait(2)
+
+	b2.Visible = true
+
+	wait(2)
+
+	w2.Visible = true
+
+	wait(2)
+
+	b3.Visible = true
+
+	wait(2)
+
+	w3.Visible = true
+
+	wait(2)
+
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = true
+	b2.Visible = true
+	b3.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+	w2.Visible = true
+	w3.Visible = true
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = true
+	b2.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	b2.Visible = false
+	w3.Visible = false
+	w2.Visible = true
+	b1.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+	b1.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+
+	wait(2)
+
+	b2.Visible = true
+
+	wait(2)
+
+	w2.Visible = true
+
+	wait(2)
+
+	b3.Visible = true
+
+	wait(2)
+
+	w3.Visible = true
+
+	wait(2)
+
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = true
+	b2.Visible = true
+	b3.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+	w2.Visible = true
+	w3.Visible = true
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = true
+	b2.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	b2.Visible = false
+	w3.Visible = false
+	w2.Visible = true
+	b1.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+	b1.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+
+	wait(2)
+
+	b2.Visible = true
+
+	wait(2)
+
+	w2.Visible = true
+
+	wait(2)
+
+	b3.Visible = true
+
+	wait(2)
+
+	w3.Visible = true
+
+	wait(2)
+
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = true
+	b2.Visible = true
+	b3.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+	w2.Visible = true
+	w3.Visible = true
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = true
+	b2.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	b2.Visible = false
+	w3.Visible = false
+	w2.Visible = true
+	b1.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+	b1.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+
+	wait(2)
+
+	b2.Visible = true
+
+	wait(2)
+
+	w2.Visible = true
+
+	wait(2)
+
+	b3.Visible = true
+
+	wait(2)
+
+	w3.Visible = true
+
+	wait(2)
+
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = true
+	b2.Visible = true
+	b3.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+	w2.Visible = true
+	w3.Visible = true
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = true
+	b2.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	b2.Visible = false
+	w3.Visible = false
+	w2.Visible = true
+	b1.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+	b1.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+
+	wait(2)
+
+	b2.Visible = true
+
+	wait(2)
+
+	w2.Visible = true
+
+	wait(2)
+
+	b3.Visible = true
+
+	wait(2)
+
+	w3.Visible = true
+
+	wait(2)
+
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = true
+	b2.Visible = true
+	b3.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+	w2.Visible = true
+	w3.Visible = true
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = true
+	b2.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	b2.Visible = false
+	w3.Visible = false
+	w2.Visible = true
+	b1.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+	b1.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+
+	wait(2)
+
+	b2.Visible = true
+
+	wait(2)
+
+	w2.Visible = true
+
+	wait(2)
+
+	b3.Visible = true
+
+	wait(2)
+
+	w3.Visible = true
+
+	wait(2)
+
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = true
+	b2.Visible = true
+	b3.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+	w2.Visible = true
+	w3.Visible = true
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = true
+	b2.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	b2.Visible = false
+	w3.Visible = false
+	w2.Visible = true
+	b1.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+	b1.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+
+	wait(2)
+
+	b2.Visible = true
+
+	wait(2)
+
+	w2.Visible = true
+
+	wait(2)
+
+	b3.Visible = true
+
+	wait(2)
+
+	w3.Visible = true
+
+	wait(2)
+
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = true
+	b2.Visible = true
+	b3.Visible = true
+
+	wait(2)
+
+	w1.Visible = true
+	w2.Visible = true
+	w3.Visible = true
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+	w1.Visible = true
+	b2.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	b2.Visible = false
+	w3.Visible = false
+	w2.Visible = true
+	b1.Visible = true
+	w3.Visible = true
+
+	wait(2)
+
+	w1.Visible = false
+	w2.Visible = false
+	w3.Visible = false
+	b1.Visible = false
+	b2.Visible = false
+	b3.Visible = false
+
+	wait(2)
+
+end
+coroutine.wrap(NWSJJ_fake_script)()
